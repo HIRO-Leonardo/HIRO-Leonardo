@@ -3,6 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIRO-Leonardo&showicons=true&theme=tokyonight)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIRO-Leonardo&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que uso no meu dia <br/>
