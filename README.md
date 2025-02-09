@@ -1,5 +1,5 @@
 ### Olá me chamo Leonardo!👋</br>
-[![site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-willian-3908151a3/)<br/>
+[![site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-willian-desenvolvedor/)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIRO-Leonardo&showicons=true&theme=merko)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIRO-Leonardo&layout=donut&theme=merko)]
 
 
