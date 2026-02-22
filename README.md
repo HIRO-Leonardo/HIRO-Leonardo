@@ -12,6 +12,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HIRO-Leonardo&layout=donut&theme=merko&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HIRO-Leonardo&theme=merko&hide_border=true" />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HIRO-Leonardo&theme=github-dark&area=true&hide_border=true&color=ff8c00" />
+</div>
 
 ---
 
