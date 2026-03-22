@@ -47,4 +47,4 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Bacharelado em TI** na UNIVESP.
 - 💡 Desenvolvi um sistema de **PDV e Gestão de Estoque** com Java 21 e PostgreSQL.
-- ☁️ Focado em certificações **Azure (AZ-104 / AZ-204)**.
+
